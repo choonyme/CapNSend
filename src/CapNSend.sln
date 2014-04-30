@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CapNSendServer", "CapNSendServer\CapNSendServer.vcproj", "{A2BF09DC-FAFF-4830-B4D8-B89B78C1EE81}"
+	ProjectSection(ProjectDependencies) = postProject
+		{F6C1AE6B-4521-45DE-83A8-27C8A7FCC842} = {F6C1AE6B-4521-45DE-83A8-27C8A7FCC842}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CapNSendClient", "CapNSendClient\CapNSendClient.vcproj", "{F6C1AE6B-4521-45DE-83A8-27C8A7FCC842}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+		Unicode Debug|Win32 = Unicode Debug|Win32
+		Unicode Release|Win32 = Unicode Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2BF09DC-FAFF-4830-B4D8-B89B78C1EE81}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A2BF09DC-FAFF-4830-B4D8-B89B78C1EE81}.Debug|Win32.Build.0 = Debug|Win32
+		{A2BF09DC-FAFF-4830-B4D8-B89B78C1EE81}.Release|Win32.ActiveCfg = Release|Win32
+		{A2BF09DC-FAFF-4830-B4D8-B89B78C1EE81}.Release|Win32.Build.0 = Release|Win32
+		{A2BF09DC-FAFF-4830-B4D8-B89B78C1EE81}.Unicode Debug|Win32.ActiveCfg = Debug|Win32
+		{A2BF09DC-FAFF-4830-B4D8-B89B78C1EE81}.Unicode Debug|Win32.Build.0 = Debug|Win32
+		{A2BF09DC-FAFF-4830-B4D8-B89B78C1EE81}.Unicode Release|Win32.ActiveCfg = Release|Win32
+		{A2BF09DC-FAFF-4830-B4D8-B89B78C1EE81}.Unicode Release|Win32.Build.0 = Release|Win32
+		{F6C1AE6B-4521-45DE-83A8-27C8A7FCC842}.Debug|Win32.ActiveCfg = Debug|Win32
+		{F6C1AE6B-4521-45DE-83A8-27C8A7FCC842}.Debug|Win32.Build.0 = Debug|Win32
+		{F6C1AE6B-4521-45DE-83A8-27C8A7FCC842}.Release|Win32.ActiveCfg = Release|Win32
+		{F6C1AE6B-4521-45DE-83A8-27C8A7FCC842}.Release|Win32.Build.0 = Release|Win32
+		{F6C1AE6B-4521-45DE-83A8-27C8A7FCC842}.Unicode Debug|Win32.ActiveCfg = Debug|Win32
+		{F6C1AE6B-4521-45DE-83A8-27C8A7FCC842}.Unicode Debug|Win32.Build.0 = Debug|Win32
+		{F6C1AE6B-4521-45DE-83A8-27C8A7FCC842}.Unicode Release|Win32.ActiveCfg = Release|Win32
+		{F6C1AE6B-4521-45DE-83A8-27C8A7FCC842}.Unicode Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
